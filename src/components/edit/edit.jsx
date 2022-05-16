@@ -73,7 +73,7 @@ const Edit = () => {
   return (
     <Form
       noValidate
-      validated={true}
+      validated={validated}
       onSubmit={handleSubmit}
       className="register-form"
     >
