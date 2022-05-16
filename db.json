@@ -1,0 +1,274 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sebastian Joe",
+      "password": "niraj",
+      "email": "sebastian@codingthesmartway.com",
+      "address": "Nagpur",
+      "phoneNo": "7878787878",
+      "role": "Admin"
+    },
+    {
+      "id": 2,
+      "name": "Niraj Walke",
+      "email": "niraj@gmail.com",
+      "phoneNo": "7878787878",
+      "address": "Nagpur",
+      "role": "Guest",
+      "password": "niraj"
+    },
+    {
+      "id": 3,
+      "name": "Sebastian",
+      "email": "sebastian@codingthesmartway.com",
+      "phoneNo": "7878787878",
+      "address": "Nagpur",
+      "role": "Admin",
+      "password": "niraj"
+    },
+    {
+      "id": 4,
+      "name": "Sebastian",
+      "email": "sebastian@codingthesmartway.com",
+      "phoneNo": "7878787878",
+      "address": "Nagpur",
+      "role": "Admin",
+      "password": "niraj"
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Sagar Kank",
+      "password": "665566556",
+      "email": "",
+      "address": "Admin",
+      "phoneNo": "Admin",
+      "role": "on"
+    },
+    {
+      "name": "Akshay Kumar Mantriwar",
+      "password": "akshay",
+      "email": "akshay@gmail.com",
+      "address": "Aheri",
+      "phoneNo": "7778886661",
+      "role": "Guest",
+      "id": 9
+    },
+    {
+      "name": "Shailesh Padalwar",
+      "password": "shailesh",
+      "email": "shailesh@gmail.com",
+      "address": "Aheri",
+      "phoneNo": "7711661155",
+      "role": "Admin",
+      "id": 10
+    },
+    {
+      "name": "Niraj walke",
+      "password": "Niraj",
+      "email": "niraj@gmail.com",
+      "address": "chandrapur",
+      "phoneNo": "9876324534",
+      "role": "Admin",
+      "id": 11
+    },
+    {
+      "name": "Akshay Mandhare",
+      "password": "mnadhare",
+      "email": "akshaym@gmail.com",
+      "address": "rajura",
+      "phoneNo": "1233456789",
+      "role": "Guest",
+      "id": 12
+    },
+    {
+      "name": "Sagar Kankulwar",
+      "password": "sagar",
+      "email": "sagar@gmail.com",
+      "address": "rajura",
+      "phoneNo": "3245313456",
+      "role": "Admin",
+      "id": 13
+    },
+    {
+      "id": 14,
+      "name": "",
+      "password": "",
+      "email": "",
+      "address": "",
+      "phoneNo": "Admin",
+      "role": "on"
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "address": "",
+      "phoneNo": "",
+      "role": "Admin",
+      "id": 15
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "address": "",
+      "phoneNo": "",
+      "role": "Admin",
+      "id": 16
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "address": "",
+      "phoneNo": "",
+      "role": "Admin",
+      "id": 17
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "address": "",
+      "phoneNo": "",
+      "role": "Admin",
+      "id": 18
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "address": "",
+      "phoneNo": "",
+      "role": "Admin",
+      "id": 19
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "address": "",
+      "phoneNo": "",
+      "role": "Admin",
+      "id": 20
+    },
+    {
+      "name": "Akshay Mandhare",
+      "password": "akshay",
+      "email": "ak@gmail.com",
+      "address": "Sample",
+      "phoneNo": "",
+      "role": "Admin",
+      "id": 21
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "address": "",
+      "phoneNo": "",
+      "role": "Admin",
+      "id": 22
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "address": "",
+      "phoneNo": "",
+      "role": "Admin",
+      "id": 23
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "address": "",
+      "phoneNo": "",
+      "role": "Admin",
+      "id": 24
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "address": "",
+      "phoneNo": "",
+      "role": "Admin",
+      "id": 25
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "address": "",
+      "phoneNo": "",
+      "role": "Admin",
+      "id": 26
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "address": "",
+      "phoneNo": "",
+      "role": "Admin",
+      "id": 27
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "address": "",
+      "phoneNo": "",
+      "role": "Admin",
+      "id": 28
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "address": "",
+      "phoneNo": "",
+      "role": "Admin",
+      "id": 29
+    },
+    {
+      "id": 30,
+      "name": "Karan",
+      "password": "Karan",
+      "email": "Karan@gmail.com",
+      "address": "bedgaon1123",
+      "phoneNo": "4232233233",
+      "role": "Admin"
+    },
+    {
+      "name": "Golu Wadke",
+      "password": "Golu",
+      "email": "golu@gmail.com",
+      "address": "Ballarpur",
+      "phoneNo": "8796345678",
+      "role": "Guest",
+      "id": 31
+    },
+    {
+      "name": "Niraj walke",
+      "password": "Niaraj",
+      "email": "niraj@gmail.com",
+      "address": "Ballarpur",
+      "phoneNo": "1234567891",
+      "role": "Admin",
+      "id": 32
+    }
+  ]
+}
